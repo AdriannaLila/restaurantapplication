@@ -1,0 +1,9 @@
+100, Hamburger,100,3.5,Tomato,pickles,ketchup
+101, Cheeseburger,101,5
+102,Sandwich,102,3
+103,Hotdog,103,3.5
+104,Pizza,104,6
+105,Fries,105,5
+200,Cola cola,200,1,false 
+201,Cola cola Zero,201,1,true
+202,Fanta,202,1
